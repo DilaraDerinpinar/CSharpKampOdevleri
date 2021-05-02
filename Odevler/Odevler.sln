@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encapsulation", "Encapsulation\Encapsulation.csproj", "{7BFDA52C-D453-401C-A8A7-939890E97F21}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\Interfaces.csproj", "{041AA7C0-9837-4ED7-9AFB-00D21AC8648B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfacesDemo", "InterfacesDemo\InterfacesDemo.csproj", "{8F5FC581-8E60-4B05-B159-D216B7F54B16}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance", "Inheritance\Inheritance.csproj", "{2080BE7C-70B2-44D2-A208-767E5249CA99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BFDA52C-D453-401C-A8A7-939890E97F21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BFDA52C-D453-401C-A8A7-939890E97F21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BFDA52C-D453-401C-A8A7-939890E97F21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BFDA52C-D453-401C-A8A7-939890E97F21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{041AA7C0-9837-4ED7-9AFB-00D21AC8648B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{041AA7C0-9837-4ED7-9AFB-00D21AC8648B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{041AA7C0-9837-4ED7-9AFB-00D21AC8648B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{041AA7C0-9837-4ED7-9AFB-00D21AC8648B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F5FC581-8E60-4B05-B159-D216B7F54B16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F5FC581-8E60-4B05-B159-D216B7F54B16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F5FC581-8E60-4B05-B159-D216B7F54B16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F5FC581-8E60-4B05-B159-D216B7F54B16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2080BE7C-70B2-44D2-A208-767E5249CA99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2080BE7C-70B2-44D2-A208-767E5249CA99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2080BE7C-70B2-44D2-A208-767E5249CA99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2080BE7C-70B2-44D2-A208-767E5249CA99}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD507EDB-41A8-4792-A763-1D120FCCDF99}
+	EndGlobalSection
+EndGlobal
